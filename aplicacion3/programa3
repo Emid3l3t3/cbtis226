@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>La musica</title>
+  <style>
+    body {
+      background-color: #d3d3d3;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      font-size: medium;
+      text-align: justify;
+    }
+    h1 {
+      font-family: Arial, sans-serif;
+      font-size: 2.5em;
+      text-align: center;
+    }
+    a {
+      display: block;
+      margin: 10px;
+      font-size: 1.2em;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>La musica como un arte</h1>
+  <p style="text-align: center;">
+    La música es un arte universal que ha acompañado al ser humano desde sus orígenes. 
+  </p>
+  <p style="text-align: center;">
+    A través de los sonidos y ritmos, las personas han encontrado una forma de expresar emociones, ideas y tradiciones. 
+  </p>
+  <p style="text-align: center;">
+    Desde los rituales prehistóricos hasta la música digital moderna, ha sido parte esencial de la vida en todas las culturas y épocas. 
+  </p>
+<style>
+img{
+    width: 20%;/*ancho fijo cambiar al gusto*/
+    height: auto; /*mantiene proporcion*/
+    border-radius: 50%; /*hace la imagen circular*/
+    border:3px solid rgb(0, 0, 0);
+    display: block;
+    margin: 20px auto;
+}
+body{
+    background-color: beige;
+}
+    h2 {color: skyblue;text-align: center;}</style>
+<body>
+    <img src="msc.jpeg"> 
+</body>
+</style>  
+  <a href="historia.html">Historia de la musica</a>
+  <a href="IM.html">Instrumentos musicales</a>
+  <a href="Tipos.html">Tipos de generos musicales</a>
+  <a href="Extra.html">Extra</a>
+</body>
+</html>
+<style>
+html, body {
+    height: 100%;
+    margin: 0;          
+}
+body {
+    background-image: url("fondo2.jpeg");
+    background-size: cover;       
+    background-repeat: no-repeat; 
+    background-position: center;  
+}
+</style>
+  <footer>
+   esotilin
+  </footer>
